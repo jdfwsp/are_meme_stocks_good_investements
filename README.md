@@ -8,18 +8,24 @@ Stocks like Gamestop and AMC have large support communities on social media.  Th
 * Use Pandas for Python to clean analyze the data
 * Use Panel for Python to display the findings
 
-## Data Visualizations
+## Results
+![](Images/bb.png)
+The far right of this image, late 2020 to current date, shows there can be correlation between search interest and closing price, but it is not a reliable sign to buy.  Often the trend increase is directly over the increase in price, or even slightly lagging it. Events in the news such as the announcement of the COVID-19 vaccination in October 2020 correlated with a sharp increase in search interest and price of certain stocks in the Healthcare sector.  The analysis does not indicate that meme stocks are sound long-term investments, an investor needs to closely monitor the market and have nuanced understanding of current affairs in order to take advantage of them.
+![](Images/time_travel.png)
+The SPY fund routinely outperforms nearly every stock in every sector of the S & P 500 but as shown in the Time Traveler tab of the panel, it is possible to beat the SPY fund with "meme stocks", making them good investments in the short term around their trending period.  Until the trend period hits, those same stocks are losing value.
 ![](Images/heat.gif)
 ![](Images/box.gif)
+Correlation with the S & P 500 index is proportional with beta value of each sector, the mutual fund correlated the most with a mean of 86% across all sectors. The median beta value had higher mean correlation (54%) than the maximum beta value (52%) and minimum beta value (35%).   
+
+## Conclusion
+Investing in single stocks based on social media campaigns does not provide the security of the conventional investing strategy of having a diversified portfolio of proven performers.  Traditional methods of analyzing historical stock performance and simulating portfolios (examples below) are more useful for someone looking to make long-term investments.  If someone is a casual investor or has a low threshold for risk or loss, they are better off investing in a carefully managed fund like SPY or a sector-specific mutual fund.
+
+## Additional Data Visualizations
 ![](Images/trend.gif)
 ![](Images/candlestick.png)
 ![](Images/spy.gif)
 ![](Images/tt.gif)
 ![](Images/sharpe.gif)
-
-## Conclusion
-![](Images/time_travel.png)
-As shown in the Time Traveler tab of the panel, it is possible to beat the SPY fund with "meme stocks", making them good investments in the short term around their trending period, as long as the investor has the time and understanding to take advantage of the opportunity.  Correlation with the S & P 500 index is proportional with beta value of each sector, the mutual fund correlated the most with a mean of 86% across all sectors. The median beta value had higher mean correlation (54%) than the maximum beta value (52%) and minimum beta value (35%). There can be correlation between search interest and closing price, but it is not a reliable sign to buy.  Often the trend increase is directly over the increase in price. The analysis does not indicate that they are sound long-term investments, not on their meme value alone.  Investing in single stocks based on social media campaigns does not provide the security of the conventional investing strategy of having a diversified portfolio of proven performers.  If someone is a casual investor or has a low threshold for risk or loss, they are better off investing in a carefully managed fund like SPY.
 
 ## References
 * [Plotly Express](https://plotly.com/python/plotly-express/)
