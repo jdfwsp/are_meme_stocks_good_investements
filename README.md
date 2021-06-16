@@ -7,7 +7,7 @@ Stocks like Gamestop and AMC have large support communities on social media.  Th
 * Use Google Trends API to get search interest over time for stock tickers
 * Use Pandas for Python to clean analyze the data
 * Use Panel for Python to display the findings
-
+![](Images/panel.gif)
 ## Results
 ![](Images/bb.png)
 The far right of this image, late 2020 to current date, shows there can be correlation between search interest and closing price, but it is not a reliable sign to buy.  Often the trend increase is directly over the increase in price, or even slightly lagging it. 
