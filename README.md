@@ -10,7 +10,9 @@ Stocks like Gamestop and AMC have large support communities on social media.  Th
 
 ## Results
 ![](Images/bb.png)
-The far right of this image, late 2020 to current date, shows there can be correlation between search interest and closing price, but it is not a reliable sign to buy.  Often the trend increase is directly over the increase in price, or even slightly lagging it. Events in the news such as the announcement of the COVID-19 vaccination in October 2020 correlated with a sharp increase in search interest and price of certain stocks in the Healthcare sector.  The analysis does not indicate that meme stocks are sound long-term investments, an investor needs to closely monitor the market and have nuanced understanding of current affairs in order to take advantage of them.
+The far right of this image, late 2020 to current date, shows there can be correlation between search interest and closing price, but it is not a reliable sign to buy.  Often the trend increase is directly over the increase in price, or even slightly lagging it. 
+![](Images/algn.png)
+Events in the news such as the announcement of the COVID-19 vaccination in October 2020 correlated with a sharp increase in search interest and price of certain stocks in the Healthcare sector.  The analysis does not indicate that meme stocks are sound long-term investments, an investor needs to closely monitor the market and have nuanced understanding of current affairs in order to take advantage of them.
 ![](Images/time_travel.png)
 The SPY fund routinely outperforms nearly every stock in every sector of the S & P 500 but as shown in the Time Traveler tab of the panel, it is possible to beat the SPY fund with "meme stocks", making them good investments in the short term around their trending period.  Until the trend period hits, those same stocks are losing value.
 ![](Images/heat.gif)
